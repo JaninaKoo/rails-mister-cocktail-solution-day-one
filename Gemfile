@@ -65,3 +65,8 @@ gem 'rails-controller-testing', group: [ :test ]
 # To protect the ascecret image keys
 gem 'dotenv-rails', groups: [:development, :test]
 
+gem 'cloudinary'
+
+gem 'carrierwave', '~> 1.2'
+
+
